@@ -97,5 +97,7 @@ Le Phi Ha
 <a href = "mailto: phihasky@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 </p>
 
-
+<a href="#" target="_blank">
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+</a>
 
