@@ -98,6 +98,6 @@ Le Phi Ha
 </p>
 
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/lephiha-quotes.svg" width="846" height="150" alt="lephiha-mot-lap-trinh-vien-mern-stack-advanced" />
 </a>
 
