@@ -42,7 +42,7 @@ Le Phi Ha
     <a href="https://developer.android.com/get-started/overview" name="android" ><img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"/></a>
     <a href="https://developer.android.com/studio" name="android-studio" ><img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"/></a>
         <a href="https://developer.android.com/compose" name="android-jetpack-compose" ><img src="https://img.icons8.com/?size=100&id=38740&format=png&color=000000"/></a>
-    <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <!-- <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> -->
     <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a> 
     <!-- <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
     <a href="https://www.w3schools.com/html/html_intro.asp" name="html"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
