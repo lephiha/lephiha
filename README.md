@@ -1,117 +1,236 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+<a href="#"><img width="100%" height="auto" src="./svg/lephiha.svg" height="175px"/></a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
-</div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div>
+# Phong Kaster
+Hello,
 
-<br>
+My name is Nguyen Thanh Phong, and I’m from Vietnam. I’m currently taking my first steps into the world of programming, and I’m excited about the journey ahead.
 
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
-  </a>
+Although we may come from different countries, speak different languages, or even belong to different generations, there is something meaningful that connects us — a shared passion for technology and the desire to grow through learning.
+
+Thank you for taking the time to be here. I appreciate your presence, and I wish you all the best in your own journey as well.
+
+Warm regards,
+
+Nguyen Thanh Phong
+## 👋 About Me
+
+- 🏡 I was born and grown up in **[the city of Red Phoenix-Flower](https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Ph%C3%B2ng)**
+
+- 👨‍🎓 I learnt Software Technology from **[Posts and Telecommunications Institute of Technology - Ho Chi Minh City](https://ptithcm.edu.vn/)**
+
+- 👨‍🏫 My major field is building Android application with Jetpack Compose
+
+- 👯 I’m looking to collaborate on OpenSource Projects
+
+- 👨‍💻 All of my projects are available at **[here](https://github.com/Phong-Kaster?tab=repositories)**
+
+- 📫 How to reach me **phongkaster@gmail.com**
+
+- 🦈 **[Zig & Sharko](https://www.youtube.com/channel/UCcKJJuOe2tOqgrKw0Gks-sw)** is my favorite cartoon movie
+
+- 🦢 **[Swan Lake](https://www.youtube.com/watch?v=KTRnuoVp2HM)** is the classical symphony that I love
+
+- 💖 **[Jar Of Hearts](https://www.youtube.com/watch?v=8v_4O44sfjM)**, **[My Heart Will Go On](https://www.youtube.com/watch?v=IAuRoAUV19o)** are my favorite love songs
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+    <b>Note:</b> Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.</br>
+    <a href="https://developer.android.com/get-started/overview" name="android" ><img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"/></a>
+    <a href="https://developer.android.com/studio" name="android-studio" ><img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"/></a>
+        <a href="https://developer.android.com/compose" name="android-jetpack-compose" ><img src="https://img.icons8.com/?size=100&id=38740&format=png&color=000000"/></a>
+    <!-- <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a> -->
+    <!-- <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
+    <a href="https://www.w3schools.com/html/html_intro.asp" name="html"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" name="css"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> -->
+    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" name="javascript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> -->
+    <!-- <a href="https://code.visualstudio.com/" name="visual-studio-code"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a> -->
+    <!-- <a style="padding-right:8px;" href="https://nodejs.org" name="nodejs"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
+    <!-- <a href="https://expressjs.com" name="express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+    <!-- <a href="https://www.mongodb.com/" name="mongodb"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>    -->
+    <!-- <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/NoSQL" name="noSQL"><img src="https://img.icons8.com/fluent/50/000000/server.png"/></a> -->
+    <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://github.com/" name="github"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+    <a href="https://docs.microsoft.com/en-us/powershell/" name="windows-powershell"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a> -->
+    
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtube.com/@trungquandev" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+## 🏃‍♂️ Github Streak
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phong-Kaster&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## 🌟 Github Stats
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <br/>
+    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=Phong-Kaster&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phong-Kaster&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+## 📊 Contribution Graph
+ 
+  [![Phong Kaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phong-Kaster&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🌎 Connect with me:
+<p align="left">
+
+<a href = "https://github.com/Phong-Kaster"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/PhongxKaster"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/phongkaster/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://phong-kaster.github.io/Portfolio/"><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a>
+<a href = "mailto: phongkaster@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+<a href = "https://www.youtube.com/channel/UCFUhd4YHr6XNe39SkuO4Jug"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
+
+## 🪐 Lastest Followers
+
+<!-- FOLLOWER-LIST:START -->
+<table>
+  <tr>
+
+<td align="center">
+     <a href="https://github.com/danglequocbao001">
+       <img src="https://avatars.githubusercontent.com/u/56766274?v=4" width="100px;" alt="danglequocbao001"/>
+     </a>
+     <br />
+     <a href="https://github.com/danglequocbao001">danglequocbao001</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/LamNhu1102">
+       <img src="https://avatars.githubusercontent.com/u/58131185?v=4" width="100px;" alt="LamNhu1102"/>
+     </a>
+     <br />
+     <a href="https://github.com/LamNhu1102">LamNhu1102</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/dompham21">
+       <img src="https://avatars.githubusercontent.com/u/63381043?v=4" width="100px;" alt="dompham21"/>
+     </a>
+     <br />
+     <a href="https://github.com/dompham21">dompham21</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/EricNguyen1206">
+       <img src="https://avatars.githubusercontent.com/u/63888253?v=4" width="100px;" alt="EricNguyen1206"/>
+     </a>
+     <br />
+     <a href="https://github.com/EricNguyen1206">EricNguyen1206</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/hh-Nghiep">
+       <img src="https://avatars.githubusercontent.com/u/71450931?v=4" width="100px;" alt="hh-Nghiep"/>
+     </a>
+     <br />
+     <a href="https://github.com/hh-Nghiep">hh-Nghiep</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/liemcn6">
+       <img src="https://avatars.githubusercontent.com/u/73791497?v=4" width="100px;" alt="liemcn6"/>
+     </a>
+     <br />
+     <a href="https://github.com/liemcn6">liemcn6</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/akirahani">
+       <img src="https://avatars.githubusercontent.com/u/79439944?v=4" width="100px;" alt="akirahani"/>
+     </a>
+     <br />
+     <a href="https://github.com/akirahani">akirahani</a>
+  </td>
+		  </tr>
+  <tr>
+
+<td align="center">
+     <a href="https://github.com/trinhnhi1306">
+       <img src="https://avatars.githubusercontent.com/u/80469378?v=4" width="100px;" alt="trinhnhi1306"/>
+     </a>
+     <br />
+     <a href="https://github.com/trinhnhi1306">trinhnhi1306</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/TuanBui-archdemon">
+       <img src="https://avatars.githubusercontent.com/u/81811541?v=4" width="100px;" alt="TuanBui-archdemon"/>
+     </a>
+     <br />
+     <a href="https://github.com/TuanBui-archdemon">TuanBui-archdemon</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/vokimson">
+       <img src="https://avatars.githubusercontent.com/u/84184229?v=4" width="100px;" alt="vokimson"/>
+     </a>
+     <br />
+     <a href="https://github.com/vokimson">vokimson</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/TruongDayx2">
+       <img src="https://avatars.githubusercontent.com/u/88103040?v=4" width="100px;" alt="TruongDayx2"/>
+     </a>
+     <br />
+     <a href="https://github.com/TruongDayx2">TruongDayx2</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/hoangtien2k3">
+       <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
+     </a>
+     <br />
+     <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/huyhp1999">
+       <img src="https://avatars.githubusercontent.com/u/98534341?v=4" width="100px;" alt="huyhp1999"/>
+     </a>
+     <br />
+     <a href="https://github.com/huyhp1999">huyhp1999</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/huychuong23">
+       <img src="https://avatars.githubusercontent.com/u/101076115?v=4" width="100px;" alt="huychuong23"/>
+     </a>
+     <br />
+     <a href="https://github.com/huychuong23">huychuong23</a>
+  </td>
+		  </tr>
+  <tr>
+
+<td align="center">
+     <a href="https://github.com/truongquangkhai99">
+       <img src="https://avatars.githubusercontent.com/u/102689302?v=4" width="100px;" alt="truongquangkhai99"/>
+     </a>
+     <br />
+     <a href="https://github.com/truongquangkhai99">truongquangkhai99</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/nnnggghhhiiiaaa123">
+       <img src="https://avatars.githubusercontent.com/u/103884461?v=4" width="100px;" alt="nnnggghhhiiiaaa123"/>
+     </a>
+     <br />
+     <a href="https://github.com/nnnggghhhiiiaaa123">nnnggghhhiiiaaa123</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/PhongKaster">
+       <img src="https://avatars.githubusercontent.com/u/108731234?v=4" width="100px;" alt="PhongKaster"/>
+     </a>
+     <br />
+     <a href="https://github.com/PhongKaster">PhongKaster</a>
+  </td>
+		  </tr>
+</table>
+<!-- FOLLOWER-LIST:END -->
+
+## ![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
